@@ -1,6 +1,8 @@
 # Malayalam-Regional-Dialect-Recognition
 This project aims to enhance Automated Speech Recognition (ASR) for the Malayalam language by focusing on its regional dialects. Utilizing advanced machine learning techniques and a specially curated dataset, this model seeks to significantly improve dialect recognition accuracy, making voice-driven applications more accessible to speakers from different regions of Kerala.
 
+**Note** -  The dataset is not provided in this repository because it is currently being used for an ongoing journal paper. Once the paper is published and the dataset is cleared for public release, it will be updated in this repository with the dataset.
+
 ## Authors 
 1. Thanushri Madhuraj
 2. Aadya Goel
