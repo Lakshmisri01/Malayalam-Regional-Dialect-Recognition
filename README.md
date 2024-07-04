@@ -12,7 +12,6 @@ This project aims to enhance Automated Speech Recognition (ASR) for the Malayala
 ## Dataset 
 The primary objective of creating this corpus is to facilitate research into the recognition and analysis of regional dialects in Malayalam speech, focusing on four major dialects corresponding to the districts of Kozhikode, Trissur, Trivandrum, and Kottayam. This initiative addresses the gap in available resources for studying dialected speech in the Malayalam language, which is critical for developing more inclusive and effective speech recognition systems. 
 
-
 ### Hours of Data per Dialect
 Below is a table detailing the hours of data collected for each dialect:
 
